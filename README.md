@@ -4,6 +4,7 @@
 
 Для запуска:
 
+0. git clone https://github.com/kovaldn/starter starter
 1. bower i
 2. npm i
 3. gulp
